@@ -18,4 +18,5 @@ int main() {
     second = givenSecond % 60;
     cout << hour << " Hour " << minute << " Minute " << second << " Second" << endl;
 
+    return 0;
 }
