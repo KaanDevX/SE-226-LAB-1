@@ -1,8 +1,9 @@
 #include <iostream>
 
 // TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+using namespace std;
 int main() {
-    using namespace std;
+
     int givenSecond;
     cout << "Give me seconds and I'll convert it to hours,minutes,seconds0" << endl;
 
