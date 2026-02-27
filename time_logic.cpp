@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
     int givenSecond;
-    cout << "Give me seconds and I'll convert it to hours,minutes,seconds0" << endl;
+    cout << "Give me seconds and I'll convert it to hours,minutes,seconds" << endl;
 
     cin >> givenSecond;
 
