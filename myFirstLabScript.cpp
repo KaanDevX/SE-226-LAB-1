@@ -12,4 +12,7 @@ int main() {
     cin >> studentId;
     cout << "Your ID is " << studentId << endl;
 
+    return 0;
+
 }
+
